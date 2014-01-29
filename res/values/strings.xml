@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments-ViewPager</string>
+    <string name="first_fragment">Fragment 1</string>
+    <string name="second_fragment">Fragment 2</string>
+    <string name="static_fragment">Static fragment</string>
+    <string name="to_second_fragment">Change to second fragment</string>
+    <string name="to_static_fragment">Change to static fragment</string>
+
+</resources>
