@@ -6,3 +6,5 @@ build
 project.properties
 .settings
 icon512.png
+*.html
+*.apk
